@@ -9,3 +9,6 @@ Used to record and save my small projects
   * 5、在购物车中，会将购物项的信息汇总，包括每个购物项的价格小计以及总价，还有购买图书总量。
 
  ![image](https://raw.githubusercontent.com/honeydream2018/JaveWeb-SmallProjects/master/case1.png)
+ 
+ ![image](https://github.com/honeydream2018/JaveWeb-SmallProjects/blob/master/case2.png)
+
