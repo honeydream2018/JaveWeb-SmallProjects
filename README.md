@@ -7,7 +7,7 @@ Used to record and save my small projects
   * 3、点击返回可以回到图书列表继续购买其他书籍，如果用户选择的图书已经在购物车中，只要更新购物项即可，即将图书数量更新；
   * 4、在购买页面中，可以在你需要的图购物项中直接输入你所需要购买特定图书的数量；
   * 5、在购物车中，会将购物项的信息汇总，包括每个购物项的价格小计以及总价，还有购买图书总量。
-
+## 效果如下所示
  ![image](https://raw.githubusercontent.com/honeydream2018/JaveWeb-SmallProjects/master/case1.png)
  
  ![image](https://github.com/honeydream2018/JaveWeb-SmallProjects/blob/master/case2.png)
