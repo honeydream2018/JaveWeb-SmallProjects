@@ -8,3 +8,4 @@ Used to record and save my small projects
   * 4、在购买页面中，可以在你需要的图购物项中直接输入你所需要购买特定图书的数量；
   * 5、在购物车中，会将购物项的信息汇总，包括每个购物项的价格小计以及总价，还有购买图书总量。
 
+ ![image](https://github.com/JaveWeb-SmallProjects/MyCase illustration/case1.jpg)
